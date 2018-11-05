@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@types/lodash@4.14.91":
-  version "4.14.91"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.91.tgz#794611b28056d16b5436059c6d800b39d573cd3a"
+"@types/lodash@4.14.118":
+  version "4.14.118"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.118.tgz#247bab39bfcc6d910d4927c6e06cbc70ec376f27"
 
 array-union@^1.0.1:
   version "1.0.2"
